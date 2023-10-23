@@ -1,2 +1,3 @@
 # 2023
 2023.10.23-tól feltöltött writeupok
+<blockquote class="imgur-embed-pub" lang="en" data-id="wkhFqgb"><a href="https://imgur.com/wkhFqgb">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
