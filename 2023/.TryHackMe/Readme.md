@@ -1,1 +1,1 @@
-Tryhackme challanges!
+Tryhackme challenges!
