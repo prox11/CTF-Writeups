@@ -1,2 +1,2 @@
 # 2023
-2023.10.23-tól feltöltött writeupok
+Writeups uploaded from October 23, 2023 onward
